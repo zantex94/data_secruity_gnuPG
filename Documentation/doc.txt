@@ -1,0 +1,2 @@
+Documentation guide.
+https://gnupg.org/gph/en/manual/book1.html?fbclid=IwAR1Stm-jVtk5CME8EeU2uP3HZ_pK6zuIukvyhAMyl0ltVRt3Jm5p76cdKdU

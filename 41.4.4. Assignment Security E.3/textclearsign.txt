@@ -1,0 +1,1 @@
+Create a short document, and clearsign it into SecE3.sig.txt. The document should give a possible use case for clearsign.
